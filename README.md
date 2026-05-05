@@ -23,3 +23,7 @@ cp -r meme-* ~/.agents/skills/
 ## 贡献
 
 参见 [AGENTS.md](./AGENTS.md) 了解 skill 格式和添加新梗的流程。
+
+## 协议
+
+[CC0 1.0 Universal](./LICENSE) — 放弃一切版权及相关权利，可自由复制、修改、分发，无需署名。
