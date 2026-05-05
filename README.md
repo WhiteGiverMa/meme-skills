@@ -40,7 +40,7 @@ LLM 的训练数据永远滞后于中文互联网的造梗速度。当用户说"
 | 目录 | 用途 |
 |---|---|
 | [skills/](./skills/) | 正式收录的梗 skill 和元工具，按规范编写 |
-| [`incoming/`](./incoming/) | 待处理的投稿，质量参差，需审核重写后移入 `skills/` |
+| [`incoming/`](./incoming/) | 待处理的投稿，暂时不适宜移入`skills/`，需要处理后移入 |
 | [`archive/`](./archive/) | 已过时或不再维护的 skill 封存 |
 
 ## 安装
