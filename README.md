@@ -34,9 +34,14 @@ LLM 的训练数据永远滞后于中文互联网的造梗速度。当用户说"
 | [meme-wodedaodun](./meme-wodedaodun/SKILL.md) | 我的刀盾 | 空耳梗 | 我的刀盾、刀盾狗、What the dog doing |
 | [meme-bibilabu](./meme-bibilabu/SKILL.md) | 比比拉布 | 无意义音效梗 | 比比拉布、bibilabu、Howieazy |
 | [meme-nailong](./meme-nailong/SKILL.md) | 奶龙/大笑奶龙 | AI生成抽象梗 | 奶龙、大笑奶龙、奶龙捧腹大笑、变异奶龙 |
-| [meme-yanquan](./meme-yanquan/SKILL.md) | 炎拳/对他使用炎拳吧 | 二次元二创模板 | 炎拳、对他使用炎拳、阿格尼脸 ⭐新增 |
-| [meme-liuyi](./meme-liuyi/SKILL.md) | 互联网六艺 | 网络文化基础 | 典、孝、急、乐、绷、赢 ⭐新增 |
-| [meme-yinhui](./meme-yinhui/SKILL.md) | 淫秽性团结 | 学术梗 | 淫秽性团结、黄图团结 ⭐新增 |
+
+## 目录说明
+
+| 目录 | 用途 |
+|---|---|
+| `meme-*/` | 正式收录的梗 skill，按规范编写 |
+| [`incoming/`](./incoming/) | 待处理的投稿，质量参差，需审核重写后移入正式目录 |
+| [`archive/`](./archive/) | 已过时或不再维护的 skill 封存 |
 
 ## 安装
 

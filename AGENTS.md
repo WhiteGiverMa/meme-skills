@@ -23,10 +23,12 @@ meme-skills/
 │   └── SKILL.md
 ├── meme-nailong/           # 奶龙 / 大笑奶龙
 │   └── SKILL.md
-└── meme-skill-creator/     # 梗技能创建器（元工具）
-    ├── SKILL.md
-    └── references/
-        └── meme-template.md
+├── meme-skill-creator/     # 梗技能创建器（元工具）
+│   ├── SKILL.md
+│   └── references/
+│       └── meme-template.md
+├── incoming/               # 待处理投稿（质量参差，审核后移入正式目录）
+└── archive/                # 已过时或不再维护的 skill 封存
 ```
 
 ## Skill 格式
