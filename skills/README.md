@@ -17,6 +17,7 @@
 | meme-jichu | xx基础xx就不基础 | 万能句式梗 |
 | meme-bababoyi | 巴巴博一/巴巴博弈 | 空耳梗 |
 | meme-yuzhoulengmo | 宇宙冷漠 | 口癖/模仿梗 |
+| meme-diaochabingtuan | 公厕调查兵团 | 网络迷因 |
 | meme-skill-creator | 梗技能创建器 | 元工具 |
 
 ### 游戏
